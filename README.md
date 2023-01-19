@@ -1,2 +1,0 @@
-# fonteynkn
-Kubernetes Webapp
